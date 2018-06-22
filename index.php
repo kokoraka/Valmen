@@ -2,7 +2,7 @@
 <!--
   Nah, tired doing all this stuff by myself.
   Feel free to contact me @gurisa.com (hope there're some stuffs for me)
-  Btw, this app also available on my server: http://go.gurisa.com/matdisk/
+  Btw, this app also available on my server: http://demo.gurisa.com/valmen/
   ~Raka
 -->
 <html>
@@ -19,7 +19,7 @@
     }
   </style>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Kelompok 1 (RIP) | Validitas Argumen | Matematika Diskrit - 7</title>
+  <title>Validitas Argumen</title>
 </head>
 <body>
   <?php include_once("functions.php"); ?>
@@ -30,11 +30,7 @@
         <p style="text-align:center;">Validitas Argumen</p>
       </div>
     </div>
-    <div class="row">
-      <div class="col-md-12">
-        <p style="text-align:center;">Aplikasi ini dibuat untuk memenuhi tugas mata kuliah <b>Matematika Diskrit - 7</b>.</p>
-      </div>
-    </div>
+
     <div class="row">
       <div class="col-md-10 col-md-offset-1">
         <hr />
@@ -200,9 +196,7 @@
 
     <div class="row">
       <div class="col-md-12">
-        <p style="text-align:center;"><b style="font-size:14pt;">R</b>aka (10115253), <b style="font-size:14pt;"><strike>I</b>khsan (10115220)</strike>, <strike><b style="font-size:14pt;">P</b>aulus (10112781)</strike></p>
-        <p style="text-align:center;">Copyright &copy; 2017 Kelompok 1 (RIP) All Rights Reserved</p>
-        <p style="text-align:center;">Universitas Komputer Indonesia</p>
+        <p style="text-align:center;">Copyright &copy; 2017 Gurisa.Com All Rights Reserved</p>
       </div>
     </div>
   </div>
